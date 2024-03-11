@@ -15,3 +15,21 @@ To get started with DC-DX, simply clone the repository and open the `index.html`
 ```bash
 git clone https://github.com/Lokeshkumarsingh2580/DC-DX.git
 cd DC-DX
+
+```
+
+Contributing
+If you'd like to contribute to DC-DX, please follow these steps:
+
+Fork the repository
+Create a new branch (git checkout -b feature/new-feature)
+Make your changes
+Commit your changes (git commit -m 'Add new feature')
+Push to the branch (git push origin feature/new-feature)
+Open a Pull Request
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Made By Lokesh Kumar Singh
+
+Enjoy using DC-DX for your projects!
