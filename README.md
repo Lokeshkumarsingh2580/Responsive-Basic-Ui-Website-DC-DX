@@ -21,7 +21,8 @@ cd DC-DX
 Contributing
 If you'd like to contribute to DC-DX, please follow these steps:
 
-Fork the repository
+
+## Fork the repository
 Create a new branch (git checkout -b feature/new-feature)
 Make your changes
 Commit your changes (git commit -m 'Add new feature')
